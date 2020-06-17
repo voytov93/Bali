@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Museo';
+  src: url('fonts/MuseoSansCyrl-500.woff') format('woff'), url('fonts/MuseoSansCyrl-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PTSerif';
+  src: url('fonts/PTSerif-Bold.woff') format('woff'), url('fonts/PTSerif-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo';
+  src: url('fonts/MuseoSansCyrl-500.woff') format('woff'), url('fonts/MuseoSansCyrl-500.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
